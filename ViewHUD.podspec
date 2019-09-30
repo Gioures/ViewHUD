@@ -2,8 +2,7 @@ Pod::Spec.new do |spec|
   spec.name         = "ViewHUD"
   spec.version      = "0.0.1"
   spec.summary      = "一个用于ViewHUD显示的UIView分类"
-  spec.description  = <<-DESC
-                   用于显示HUD
+  spec.description  = "用于显示HUD"
   spec.homepage     = "https://github.com/Gioures/ViewHUD"
   spec.license      = "MIT"
   spec.author             = { "Gioures" => "756119874@qq.com" }
