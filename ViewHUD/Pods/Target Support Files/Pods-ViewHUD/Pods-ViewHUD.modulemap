@@ -1,0 +1,6 @@
+framework module Pods_ViewHUD {
+  umbrella header "Pods-ViewHUD-umbrella.h"
+
+  export *
+  module * { export * }
+}
